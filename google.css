@@ -1,0 +1,74 @@
+
+body{
+    /* margin: 0;
+    padding: 0; */
+    background-color:white;
+}
+
+
+.container{
+    width: 89%;
+    height: 60px;
+    background-color: rgb(240, 240, 245) ;
+    margin: 0;
+    padding: 0;
+    }
+
+/* Butonların olduğu alan */
+/* Google search butonu */
+.cardx{   
+    width: 10%;
+    height: 20px;
+    background-color: honeydew;
+    float: left;
+    margin: 0px 0px 0px 500px;
+}
+
+/* I'm feeling lucky butonu */
+.cardy{   
+    width: 10%;
+    height: 20px;
+    background-color: honeydew;
+    float: left;
+    margin: 1px 1px 1px 3px;
+}
+/* altdaki 3 bitişik kutular */
+.card1{
+    width: 37%;
+    height: 75px;
+    background-color: rgb(57, 216, 189);
+    float: right;
+    margin: 2px 73px 2px 2px; 
+    font-size: 12px;
+}
+.card2{
+    width: 19%;
+    height: 75px;
+    background-color:rgb(112, 212, 196);
+    float: right;
+    margin: 2px;
+    font-size: 12px;
+    
+}
+.card3{
+    width: 32%;
+    height: 75px;
+    background-color:rgb(182, 228, 220);
+    float: right;
+    margin: 2px;
+    
+    
+}
+
+
+
+
+
+
+/* .content{
+    width: 200px;
+    height: 200px;
+    background-color: crimson;
+    float: right;
+    margin: 30px;
+} */
